@@ -1,0 +1,28 @@
+1. Various sources of Big Data
+• This flood of data is coming from many sources • The New York Stock Exchange generates about 4-5 terabytes of data everyday • Facebook hosts more than 240 billion photos,
+growing at 7 petabytes of data everyday
+• Ancestory.com, the genealogy site stores
+around 10 petabytes of the data
+• The Internet Archive stores around 18.5
+petabytes of data
+• The Large Hadron Collider near Geneva
+produces about 30 Petabytes of data every year
+
+2. 3 V's of Big data
+variety,volume,velocity
+
+3.
+Vertical Scaling
+• Increase the configuration of a single system
+• Like disk capacity, RAM, data transfer speed
+• Complex, costly, and time consuming process
+Horizontal scaling
+• Use multiple commodity (economical) machines and distribute the load of
+storage/processing among them
+• Economical and quick to implement as it focuses on distribution of load
+• Instead of having a single system with 10 TB of storage and 80 GB of RAM,
+use 40 machines with 256 GB of storage and 2 GB of RAM
+
+4. Need and Working of Hadoop
+storing and processig large amount of data.
+parallel processing. inexpensive and fast access.
